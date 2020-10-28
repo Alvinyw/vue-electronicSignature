@@ -1,6 +1,6 @@
 {
   "name": "vue-electronicsignature",
-  "version": "1.8.0",
+  "version": "1.9.0",
   "description": "基于 Vue 的电子签名组件",
   "main": "dist/electronicSignature.js",
   "scripts": {
@@ -39,6 +39,11 @@
     "webpack": "^3.9.1",
     "webpack-dev-server": "^2.9.5"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alvinyw/vue-electronicSignature.git"
+  },
+  "homepage": "https://github.com/Alvinyw/vue-electronicSignature",
   "keywords": [
     "电子签名",
     "签名组件"
