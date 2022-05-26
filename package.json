@@ -1,6 +1,6 @@
 {
   "name": "vue-electronicsignature",
-  "version": "1.9.0",
+  "version": "1.9.1",
   "description": "基于 Vue 的电子签名组件",
   "main": "dist/electronicSignature.js",
   "scripts": {
