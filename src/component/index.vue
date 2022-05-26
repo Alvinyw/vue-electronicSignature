@@ -271,7 +271,7 @@ export default {
     idInfo() {
       return {
         form: {
-          name: "廖益文"
+          name: "张三"
         }
       };
     },
